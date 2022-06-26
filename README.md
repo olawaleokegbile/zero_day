@@ -1,1 +1,1 @@
-**Strong** __Strong__
+Ubuntu VM learning
